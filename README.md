@@ -7,7 +7,6 @@
  <div>
    <a href="https://github.com/vento-lja">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vento-lja&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-     <br>
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vento-lja&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
  
